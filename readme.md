@@ -1,4 +1,4 @@
-general deep learning introductory
+General Machine Learning Introductory
 
 This repository include general approches to create machine learing model for classification and regression task using open sorce algorithams/models following
 
